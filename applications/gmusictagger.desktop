@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=2.2.1
+Type=Application
+Terminal=false
+Name=GMusicTagger
+Name[es_ES]=GMusicTagger
+Comment=Mp3 tag editor
+Comment[es_ES]=Editor de etiquetas de Mp3
+Icon=gmusictagger
+Icon[es_ES]=gmusictagger
+Categories=AudioVideo;Audio
+Exec=gmusictagger
